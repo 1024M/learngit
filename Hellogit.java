@@ -7,6 +7,7 @@ class  Hellogit
 		System.out.ptintln(" Creating a new branch is quick.");
 		System.out.ptintln("Creating a new branch is quick and simple.");
 		System.out.ptintln("22:11 now update to 9:28");
+		System.out.ptintln("我 现在在远程协作chlie");
 
 
 	}
